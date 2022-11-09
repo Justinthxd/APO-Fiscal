@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695943159687",
+    "firebase_url": "https://apo-project-7388e-default-rtdb.firebaseio.com",
+    "project_id": "apo-project-7388e",
+    "storage_bucket": "apo-project-7388e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695943159687:android:631a8bcf81e15643fafd22",
+        "android_client_info": {
+          "package_name": "com.example.apo_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695943159687-4tl07lr32dp199gjl5ja3n5ll8nmfbr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzQcoGaeXNok-i7_C8QLYzBIfPeVetHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695943159687-4tl07lr32dp199gjl5ja3n5ll8nmfbr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
